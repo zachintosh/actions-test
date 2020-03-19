@@ -1,4 +1,1 @@
-feature: ['feature/*', 'feat/*']
-fix: fix/*
-chore: chore/*
-fixed-branch: fixed-branch-name
+zion-ui: ui-next
